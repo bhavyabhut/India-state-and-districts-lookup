@@ -1,0 +1,15 @@
+img{
+	width: 100px;
+	height: 100px;
+}
+.badge{
+	width: 6rem;
+	height: 3rem;
+	text-align: center;
+	font-size: 14px;
+}
+.mydis{
+	padding: 10px 10px;
+	color:white;
+	border:1px solid #7efff5;
+}
